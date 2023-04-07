@@ -2,22 +2,33 @@
 
 Java full edition
 
+
 Created in 2019
+
+
 Presented at Festival of science and technology AMAVET 2019
+
 Participant of national round of Slovakia
+
 Refactored, optimized and translated to English in 2023
 
+
 Developed by Štefan Kando
+
 Presented by Štefan Kando and Bára Elisabeth Dočkalová
 
 
 ## Description:
 Unbeatable AI in 3x3 Tic Tac Toe programmed with Java working with MySQL.
+
 2019 project originally in Slovak, refactored, optimized and translated to English in 2023.
+
 The project has elements of the server-client application and a MySQL server was hosted
+
 during the project creation and presentation. 
-The server is no longer available and the project needs
-a running MySQL database to function. This database can be a localhost.
+
+The server is no longer available and the project needs a running MySQL database to function. This database can be a localhost.
+
 The code is undocumented because it is old and I was not as experienced when I was writing it.
 
 
@@ -63,7 +74,7 @@ editing the code etc. will be disregarded.
 
 
 ## File structure:
-
+```
 TTTMRemastered/
 ├─ lib/
 │  ├─ mysql-connector-java-8.0.17.jar - MySQL connector
@@ -88,10 +99,10 @@ TTTMRemastered/
 ├─ TTTMRemastered.jar - Java build of the application
 ├─ Poster.pdf - Original 2019 poster presented at the national round of Slovakia - FoSaT AMAVET 2019
 		^	More information about the project can be found here
-
+```
 
 ## Database structure:
-
+```
 tttm/ - Default name of the database
 ├─ combinations/ - Table of possible final combinations of the game
 │  ├─ combination - Combinations of the game in form of 5-9 digits long numbers
@@ -121,3 +132,4 @@ tttm/ - Default name of the database
 │  ├─ nickname - Nickname of the tester
 │  ├─ publicIP - Public IP of the tester
 │  ├─ localIP - Local IP of the tester
+```
