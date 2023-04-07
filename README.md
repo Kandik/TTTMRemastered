@@ -1,4 +1,4 @@
-#Tic Tac Toe Master Remastered
+# Tic Tac Toe Master Remastered
 
 Java full edition
 
@@ -11,7 +11,7 @@ Developed by Štefan Kando
 Presented by Štefan Kando and Bára Elisabeth Dočkalová
 
 
-##Description:
+## Description:
 Unbeatable AI in 3x3 Tic Tac Toe programmed with Java working with MySQL.
 2019 project originally in Slovak, refactored, optimized and translated to English in 2023.
 The project has elements of the server-client application and a MySQL server was hosted
@@ -21,17 +21,17 @@ a running MySQL database to function. This database can be a localhost.
 The code is undocumented because it is old and I was not as experienced when I was writing it.
 
 
-##Prerequisites:
+## Prerequisites:
 You need Java installed along with a running MySQL database.
 For the MySQL database, I recommend installing XAMPP.
 
 
-##Installation:
+## Installation:
 Run the .exe file or run the .jar file with 
 "java -jar "TTTMRemastered.jar"" command to start the application.
 
 
-##How to play with AI:
+## How to play with AI:
 - Have a MySQL database running
 with either an empty database or a database with "tttm.sql" uploaded to it
 - Start the application
@@ -54,7 +54,7 @@ to identify winners, but if you are using a localhost database, it does not matt
 - Try to beat the AI
 
 
-##If you beat the AI, you can get the bounty in the form you desire. In case you
+## If you beat the AI, you can get the bounty in the form you desire. In case you
 manage to win over the AI, reach out to me through s.kando@azet.sk.
 Since the AI is deterministic, you can just describe how you managed to beat it.
 You must follow the rules of Tic Tac Toe, winnings over AI using glitches, hacks,
@@ -62,7 +62,7 @@ editing the code etc. will be disregarded.
 
 
 
-##File structure:
+## File structure:
 
 TTTMRemastered/
 ├─ lib/
@@ -90,7 +90,7 @@ TTTMRemastered/
 		^	More information about the project can be found here
 
 
-##Database structure:
+## Database structure:
 
 tttm/ - Default name of the database
 ├─ combinations/ - Table of possible final combinations of the game
