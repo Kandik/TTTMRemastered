@@ -65,8 +65,8 @@ to identify winners, but if you are using a localhost database, it does not matt
 - Try to beat the AI
 
 
-## If you beat the AI, you can get the bounty in the form you desire. In case you
-manage to win over the AI, reach out to me through s.kando@azet.sk.
+## If you beat the AI, you can get the bounty (100€)
+in the form you desire. In case you manage to win over the AI, reach out to me through s.kando@azet.sk.
 Since the AI is deterministic, you can just describe how you managed to beat it.
 You must follow the rules of Tic Tac Toe, winnings over AI using glitches, hacks,
 editing the code etc. will be disregarded.
